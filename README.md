@@ -39,3 +39,6 @@ Use keypad to enter in commands, and LCD to view directions/output. Entering `*`
 
 ###Slave Microcontroller
 ![alt text](https://github.com/ykamo001/BeamRover/blob/master/Circuitry/Slave%20Microcontroller.JPG)
+
+###Master Microcontroller
+![alt text](https://github.com/ykamo001/BeamRover/blob/master/Circuitry/Master%20Microcontroller.JPG)
