@@ -31,7 +31,7 @@ Use keypad to enter in commands, and LCD to view directions/output. Entering `*`
 2. [BeamRoverServant.c](https://github.com/ykamo001/BeamRover/blob/master/Source%20Files/BeamRoverServant.c): Source file for the slave microcontroller. Handles all the output for the DC motors and LCD screen. Receives data from the master microcontroller via SPI, and according to the information that is sent, outputs the proper bits to the specific ports and pins. Also handles PWM for the DC motors.
 
 ## Wiring Setup:
-###LCD
+### LCD
 ![alt text](https://github.com/ykamo001/BeamRover/blob/master/Circuitry/LCD.png)
 
 ### Motor Driver
