@@ -34,11 +34,11 @@ Use keypad to enter in commands, and LCD to view directions/output. Entering `*`
 ###LCD
 ![alt text](https://github.com/ykamo001/BeamRover/blob/master/Circuitry/LCD.png)
 
-###Motor Driver
+### Motor Driver
 ![alt text](https://github.com/ykamo001/BeamRover/blob/master/Circuitry/L293d%20Motor%20Driver.png)
 
-###Slave Microcontroller
+### Slave Microcontroller
 ![alt text](https://github.com/ykamo001/BeamRover/blob/master/Circuitry/Slave%20Microcontroller.JPG)
 
-###Master Microcontroller
+### Master Microcontroller
 ![alt text](https://github.com/ykamo001/BeamRover/blob/master/Circuitry/Master%20Microcontroller.JPG)
